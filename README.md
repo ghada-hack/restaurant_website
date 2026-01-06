@@ -1,32 +1,31 @@
-# 🍽️ PixesPark - Site de Restaurant
+# 🍽️ PixesPark - Restaurant Website
 
-Bienvenue sur le dépôt GitHub de **PixesPark**, un site web moderne et élégant conçu pour présenter un restaurant, son menu et permettre la réservation en ligne.
+Welcome to the GitHub repository for **PixesPark**, a modern and elegant restaurant website designed to showcase a menu and provide a seamless user experience.
 
-### 🚀 Démonstration en direct
-Le site est hébergé avec GitHub Pages et accessible ici : 
-👉 [**Voir le site en direct**](https://ghada-hack.github.io/restaurant_website/)
+### 🚀 Live Demo
+The website is hosted with GitHub Pages and can be accessed here:
+👉 [**View Live Site**](https://ghada-hack.github.io/restaurant_website/)
 
 ---
 
-## 🛠️ Technologies utilisées
-Ce projet a été réalisé avec les technologies fondamentales du web pour garantir légèreté et performance :
-* **HTML5** : Structure sémantique du contenu.
-* **CSS3** : Design responsive, animations et mise en page moderne (Flexbox/Grid).
+## 🛠️ Technologies Used
+This project was built using core web technologies to ensure fast loading and clean code:
+* **HTML5**: For semantic content structure.
+* **CSS3**: For modern styling, layout, and responsive design.
 
-## ✨ Fonctionnalités
-* **Accueil attrayant** : Présentation visuelle du restaurant.
-* **Menu interactif** : Consultation des plats et tarifs.
-* **Formulaire de contact/réservation** : Interface intuitive pour les clients.
-* **Design Responsive** : Adapté aux ordinateurs, tablettes et smartphones.
+## ✨ Key Features
+* **Modern Landing Page**: High-quality visual presentation of the restaurant.
+* **Digital Menu**: Easy-to-read layout for dishes and prices.
+* **Reservation Form**: User-friendly interface for customer inquiries.
+* **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 
-## 📂 Structure du projet
-* `index.html` : La page d'accueil principale.
-* `form1.css` : La feuille de style gérant tout le design.
-* `assets/` : Dossier contenant les images et icônes du site.
+## 📂 Project Structure
+* `index.html`: The main entry point of the website.
+* `form1.css`: The stylesheet containing all visual designs.
+* `assets/`: Directory for images and icons.
 
-## 🔧 Installation locale
-Pour modifier ce projet sur votre ordinateur :
-1. Clonez le dépôt :
+## 🔧 Local Setup
+To run this project on your local machine:
+1. Clone the repository:
    ```bash
    git clone [https://github.com/ghada-hack/restaurant_website.git](https://github.com/ghada-hack/restaurant_website.git)
-
